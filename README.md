@@ -7,7 +7,6 @@ This project analyzes climate data to understand its impact on agriculture and e
 - Python
 - Pandas
 - Matplotlib
-- Seaborn
 
 ## Key Findings
 - Temperature is increasing over time
